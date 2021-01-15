@@ -8,11 +8,11 @@
   <ItemGroup>
     <PackageReference Include="CrystalQuartz.AspNetCore" Version="6.11.0.3-beta" />
     <PackageReference Include="MassTransit.Extensions.DependencyInjection" Version="7.1.2" />
-    <PackageReference Include="MassTransit.Quartz" Version="7.0.4" />
+    <PackageReference Include="MassTransit.Quartz" Version="7.1.2" />
     <PackageReference Include="MassTransit.RabbitMQ" Version="7.1.2" />
     <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.11" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
-    <PackageReference Include="Quartz.Serialization.Json" Version="3.0.7" />
+    <PackageReference Include="Quartz.Serialization.Json" Version="3.2.3" />
     <PackageReference Include="Quartzmin" Version="1.0.3" />
   </ItemGroup>
 

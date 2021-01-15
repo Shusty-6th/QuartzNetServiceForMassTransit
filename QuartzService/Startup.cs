@@ -79,7 +79,7 @@ namespace QuartzService
 
             var scheduler = app.ApplicationServices.GetRequiredService<IScheduler>();
 
-            // remove if you don't want to use management UI: UseCrystalQuartz
+            // remove if you don't want to use management UI: CrystalQuartz
             app.UseCrystalQuartz(() => scheduler);
 
             // remove if you don't want to use management UI: Quartzmin
