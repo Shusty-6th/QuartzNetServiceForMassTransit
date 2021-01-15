@@ -8,8 +8,8 @@ The service is set up for connection to `MSSQL Server`, but [can be easily used 
 
 ## Quartz management UI
 The app also offers integrated ui managements (which can be disabled in `Startup.cs`)
-- Quartzmin (avaible under: https://localhost:56601/)
-- CrystalQuartz  (avaible under: https://localhost:56601/quartz)
+- Quartzmin (avaible under: http://localhost:56601/)
+- CrystalQuartz  (avaible under: http://localhost:56601/quartz)
 
 Both solutions are imperfect and contain bugs.  If anyone knows better interfaces, please comment.
 
